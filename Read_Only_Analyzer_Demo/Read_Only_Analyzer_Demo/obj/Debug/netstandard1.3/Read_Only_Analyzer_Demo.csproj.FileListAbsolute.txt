@@ -1,0 +1,12 @@
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\bin\Debug\netstandard1.3\tools\install.ps1
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\bin\Debug\netstandard1.3\tools\uninstall.ps1
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\bin\Debug\netstandard1.3\Read_Only_Analyzer_Demo.deps.json
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\bin\Debug\netstandard1.3\Read_Only_Analyzer_Demo.dll
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\bin\Debug\netstandard1.3\Read_Only_Analyzer_Demo.pdb
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\obj\Debug\netstandard1.3\Read_Only_Analyzer_Demo.csprojAssemblyReference.cache
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\obj\Debug\netstandard1.3\Read_Only_Analyzer_Demo.Resources.resources
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\obj\Debug\netstandard1.3\Read_Only_Analyzer_Demo.csproj.GenerateResource.cache
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\obj\Debug\netstandard1.3\Read_Only_Analyzer_Demo.AssemblyInfoInputs.cache
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\obj\Debug\netstandard1.3\Read_Only_Analyzer_Demo.AssemblyInfo.cs
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\obj\Debug\netstandard1.3\Read_Only_Analyzer_Demo.dll
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\obj\Debug\netstandard1.3\Read_Only_Analyzer_Demo.pdb

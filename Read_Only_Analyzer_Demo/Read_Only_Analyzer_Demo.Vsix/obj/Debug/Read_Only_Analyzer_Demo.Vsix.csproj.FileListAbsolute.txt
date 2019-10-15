@@ -1,0 +1,16 @@
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\bin\Debug\tools\install.ps1
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\bin\Debug\tools\uninstall.ps1
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\bin\Debug\Read_Only_Analyzer_Demo.vsix
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\bin\Debug\extension.vsixmanifest
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\bin\Debug\Read_Only_Analyzer_Demo.dll
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\bin\Debug\System.Collections.Immutable.dll
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\bin\Debug\Read_Only_Analyzer_Demo.pdb
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\obj\Debug\Read_Only_Analyzer_Demo.Vsix.csprojAssemblyReference.cache
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\obj\Debug\_EmptyResource.resources
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\obj\Debug\Read_Only_Analyzer_Demo.Vsix.csproj.GenerateResource.cache
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\obj\Debug\Read_Only_Analyzer_Demo.Vsix.csproj.CopyComplete
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\obj\Debug\Read_Only_Analyzer_Demo.dll
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\obj\Debug\Read_Only_Analyzer_Demo.pdb
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\obj\Debug\extension.vsixmanifest
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\obj\Debug\files.json
+C:\Users\midumont\source\repos\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo\Read_Only_Analyzer_Demo.Vsix\obj\Debug\createTemplateManifests.cache

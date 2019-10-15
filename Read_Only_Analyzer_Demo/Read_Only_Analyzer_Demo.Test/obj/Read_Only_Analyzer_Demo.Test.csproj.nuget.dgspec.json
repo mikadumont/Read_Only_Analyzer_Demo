@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\midumont\\source\\repos\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo.Test\\Read_Only_Analyzer_Demo.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\midumont\\source\\repos\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo.Test\\Read_Only_Analyzer_Demo.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\midumont\\source\\repos\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo.Test\\Read_Only_Analyzer_Demo.Test.csproj",
+        "projectName": "Read_Only_Analyzer_Demo.Test",
+        "projectPath": "C:\\Users\\midumont\\source\\repos\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo.Test\\Read_Only_Analyzer_Demo.Test.csproj",
+        "packagesPath": "C:\\Users\\midumont\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\midumont\\source\\repos\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\midumont\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devdiv.pkgs.visualstudio.com/_packaging/VSIDE_UT/nuget/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\midumont\\source\\repos\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo.csproj": {
+                "projectPath": "C:\\Users\\midumont\\source\\repos\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview1-014459\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\midumont\\source\\repos\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\midumont\\source\\repos\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo.csproj",
+        "projectName": "Read_Only_Analyzer_Demo",
+        "projectPath": "C:\\Users\\midumont\\source\\repos\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo.csproj",
+        "packagesPath": "C:\\Users\\midumont\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\midumont\\source\\repos\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\Read_Only_Analyzer_Demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\midumont\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.3"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devdiv.pkgs.visualstudio.com/_packaging/VSIDE_UT/nuget/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.3": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.3": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview1-014459\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
